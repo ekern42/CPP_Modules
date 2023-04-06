@@ -1,2 +1,6 @@
 test.txt
 *.o
+megaphone
+*.dSYM
+.DS_Store
+.vscode
